@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title>Hare Krishna Website</title>
+  </head>
+  <body>
+    <h1>Hare Krishna!</h1>
+    <p>Radhe Radhe! Welcome to my Bhakti Website</p>
+
+    <!-- Krishna Photo -->
+    <img src="PASTE_YOUR_IMAGE_LINK_HERE" width="300px" alt="Shree Krishna">
+  </body>
+</html>
